@@ -1,7 +1,7 @@
-import hackindiaLogo from "../assets/hackindiaLogo.svg";
+import hackindiaLogo from "../assets/hackindiaLogo.png";
 import bgVideo from "../assets/video.mp4";
 import singularity from "../assets/singularity.svg";
-import hackindia2025 from "../assets/hackindia2025.svg";
+import hackindia2025 from "../assets/hackindia2025.png";
 import { useState } from "react";
 
 const HeroSection = () => {
@@ -64,7 +64,7 @@ const HeroSection = () => {
                 <path
                   d="M2.35937 47.8035H0.35V52.65H5.54843V0.349998H0.35V35.6037L2.61222 37.9673L2.70937 38.0688V38.2093V47.4535V47.8035H2.35937Z"
                   stroke="#B026FF"
-                  stroke-width="0.7"
+                  strokeWidth="0.7"
                   className="transition-all duration-300 group-hover:fill-[#B026FF]"
                 ></path>
               </svg>
@@ -161,13 +161,13 @@ const HeroSection = () => {
             <path
               d="M55.2183 5.79534L55.3456 5.88201H55.4997H149.5V45.0939L139.271 51.7824H8.93774V0.5H47.4392L55.2183 5.79534Z"
               fill="#D9D9D9"
-              fill-opacity="0.05"
+              fillOpacity="0.05"
               stroke="#B026FF"
             ></path>
             <path
               d="M2.35937 47.8035H0.35V52.65H5.54843V0.349998H0.35V35.6037L2.61222 37.9673L2.70937 38.0688V38.2093V47.4535V47.8035H2.35937Z"
               stroke="#B026FF"
-              stroke-width="0.7"
+              strokeWidth="0.7"
             ></path>
           </svg>
 
